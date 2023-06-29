@@ -1,0 +1,6 @@
+[submodule "premake5-modules/vspropertysheets"]
+	path = premake5-modules/vspropertysheets
+	url = https://github.com/ignite720/premake-vspropertysheets.git
+[submodule "premake5-modules/wkslight"]
+	path = premake5-modules/wkslight
+	url = https://github.com/ignite720/premake-wkslight.git
