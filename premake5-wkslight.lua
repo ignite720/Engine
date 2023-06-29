@@ -1,8 +1,7 @@
-g_wkslight = require("premake5-modules.premake-wkslight.wkslight")
+g_wkslight = require("premake5-modules/wkslight")
 g_wkslight.workspace = {
 	name = "VEngine-wks",
 	startproject = "VEngine",
-	platforms = { "x64" },
 	cppdialect = "C++20",
 	libraries = {
 		name = "libraries",
