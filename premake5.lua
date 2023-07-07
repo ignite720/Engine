@@ -9,6 +9,11 @@ workspace(g_wkslight.workspace.name)
 	floatingpoint("Default")
 	rtti("Default")
 	exceptionhandling("Default")
+	defines({
+		"__STDC_LIMIT_MACROS",
+		"__STDC_FORMAT_MACROS",
+		"__STDC_CONSTANT_MACROS",
+	})
 	filter("system:windows")
 		systemversion("latest")
 	filter("system:linux")
