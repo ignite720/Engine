@@ -69,8 +69,8 @@ project("VEngine")
             "QT_QPA_PLATFORM_PLUGIN_PATH=" .. g_wkslight.extras.qt_qpa_platform_plugin_path,
         })
         vspropertysheets({
-            "D:\\dev2\\DirectXTK.props",
-            "D:\\dev2\\fbxsdk.props",
-            "D:\\dev2\\PhysX-4.1.props",
-            "D:\\dev2\\qt5.props",
+            [[D:\dev2\DirectXTK.props]],
+            [[D:\dev2\fbxsdk.props]],
+            [[D:\dev2\PhysX-4.1.props]],
+            [[D:\dev2\qt5.props]],
         })
