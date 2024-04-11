@@ -9,6 +9,7 @@ VEngine/Code/Physx/
 VEngine/Shaders/Vertex/
 VEngine/Shaders/Pixel/
 
+[Bb]in/
 [Bb]uild/
 
 # User-specific files
